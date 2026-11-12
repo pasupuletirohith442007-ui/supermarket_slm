@@ -4,7 +4,7 @@ This project fine-tunes a small language model (SmolLM2-135M-Instruct) to answer
 (revenue by branch, product line, payment method and so on, plus tax/total calculations) using a
 15,000-row supermarket sales table.
 
-Dataset on Hugging Face: https://huggingface.co/datasets/rohithpasupuleti/supermarket-sales-qa
+Dataset on Hugging Face: https://github.com/pasupuletirohith442007-ui/supermarket_slm
 
 ## Repository layout
 ```
